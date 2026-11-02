@@ -27,4 +27,4 @@ El siguiente gráfico generado mediante **Python (Matplotlib)** resume la trayec
 ├── grafico_azucar.py             # Script de Python para generar la visualización
 ├── evolucion_precio_azucar.png   # Gráfico exportado en alta resolución
 └── README.md                     # Documentación oficial del proyecto
-
+"Además de analizar los datasets históricos del INDEC, sumamos una etapa de automatización conectándonos a una API pública mediante un script en Python. Esto nos permite extraer datos directamente desde la web en formato JSON y estructurarlos de manera dinámica utilizando Pandas, cumpliendo con los requerimientos técnicos de integración de sistemas."
